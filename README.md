@@ -1,16 +1,16 @@
- ##Hybrid Tag Recommendation System
+ ## Hybrid Tag Recommendation System
  
- ###About
+ ### About
  The project aims to modify existing collaborative filtering based recommendation techniques to use content-based information from the data.
  
- ###Dataset
+ ### Dataset
  Stack Overflow
  
  Each data point is assosciated with a question body and associated tags  
  
- ###Instructions
+ ### Instructions
  
- ###Details
+ ### Details
  + **Preprocessor.py**:
  Extract Keywords from the questions body to a sqlite database.  Calculate tf-idf statistic for the keywords.
  
